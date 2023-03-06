@@ -1,0 +1,27 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandraRokicka/toDoListApp.git"
+  },
+  "author": "Aleksandra Rokicka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandraRokicka/toDoListApp/issues"
+  },
+  "homepage": "https://github.com/AleksandraRokicka/toDoListApp#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "posthtml-doctype": "^1.1.1",
+    "posthtml-include": "^1.7.4",
+    "tailwindcss": "^3.2.7"
+  }
+}
